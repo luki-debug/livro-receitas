@@ -1,5 +1,7 @@
 #Strogonoff de Frango :chicken:
 
+
+
 ###Ingredientes - Strogonoff de frango simples
 
  - 1 quilo de peito de frango sem pele
